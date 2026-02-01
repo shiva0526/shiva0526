@@ -5,12 +5,12 @@
 <p style="font-size:16px;">
 🎓 <b>B.Tech (AI & ML)</b> &nbsp;•&nbsp;
 💻 <b>AI & Full-Stack Developer</b> &nbsp;•&nbsp;
-🚀 <b>Project-Driven Learner</b>
+🚀 <b>Building Real-World Products</b>
 </p>
 
 <p>
-I build <b>real-world AI systems</b>, <b>computer vision models</b>,  
-and <b>scalable full-stack applications</b>.
+I design and build <b>AI-powered systems</b>, <b>computer vision models</b>,  
+and <b>scalable full-stack applications</b> focused on real-world impact.
 </p>
 
 <hr style="width:60%;"/>
@@ -36,19 +36,36 @@ and <b>scalable full-stack applications</b>.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
+
+### 🏀 BaseLine — Sports Academy Management Platform
+<b>End-to-end attendance & management system built for real sports academies</b>
+
+<ul>
+<li>👥 Coach authentication with role-based access</li>
+<li>📋 Player & batch management</li>
+<li>📅 Daily attendance tracking</li>
+<li>📊 Report generation for students</li>
+<li>📲 Planned WhatsApp report automation using official APIs</li>
+<li>⚡ Scalable backend architecture for real-world usage</li>
+</ul>
+
+<b>Tech Stack:</b>  
+`FastAPI · TypeScript · SQL · Cloud Hosting · WhatsApp API (planned)`
+
+---
 
 ### 🩺 Pneumonia Detection System
 <b>Full-stack AI system for automated pneumonia diagnosis from chest X-rays</b>
 
 <ul>
-<li>🧠 CNN model built with <b>TensorFlow / Keras</b></li>
-<li>📊 Classifies X-rays into <b>Normal, Bacterial, Viral</b></li>
+<li>🧠 CNN built using <b>TensorFlow / Keras</b></li>
+<li>📊 Classifies X-rays into Normal, Bacterial & Viral categories</li>
 <li>🔥 <b>Grad-CAM</b> visual explanations using OpenCV</li>
-<li>⚡ High-performance <b>FastAPI</b> backend</li>
-<li>🗄️ Patient scan history with <b>PostgreSQL</b></li>
-<li>🌐 React + TypeScript frontend</li>
-<li>🔐 Supabase authentication & secure storage</li>
+<li>⚡ High-performance REST API using FastAPI</li>
+<li>🗄️ Patient scan history stored in PostgreSQL</li>
+<li>🌐 Responsive frontend using React + TypeScript</li>
+<li>🔐 Secure authentication & storage with Supabase</li>
 </ul>
 
 <b>Tech Stack:</b>  
@@ -57,15 +74,15 @@ and <b>scalable full-stack applications</b>.
 ---
 
 ### 📚 StudyBuddy — AI Study Platform
-<b>AI-powered study planner & personal tutor</b>
+<b>AI-powered study planner and personal tutor</b>
 
 <ul>
 <li>📄 Ingests notes, PDFs & question papers</li>
-<li>🔍 OCR + text extraction</li>
-<li>🧠 RAG-based context-aware AI responses</li>
+<li>🔍 OCR-based text extraction</li>
+<li>🧠 RAG-powered context-aware responses</li>
 <li>📅 Personalized study plans till exam date</li>
 <li>📝 Adaptive quizzes & revision flashcards</li>
-<li>🎥 Auto YouTube topic recommendations</li>
+<li>🎥 Automatic YouTube topic recommendations</li>
 </ul>
 
 <b>Frontend:</b>  
@@ -81,16 +98,16 @@ and <b>scalable full-stack applications</b>.
 - 🧠 AI & Deep Learning Projects  
 - 👁️ Computer Vision (OpenCV & CNNs)  
 - ⚡ FastAPI Backends  
-- 🌐 React + TypeScript Apps  
+- 🌐 React + TypeScript Applications  
 
 ---
 
-## 📊 2026 Goals
+## 🎯 2026 Goals
 
-- ✅ Production-ready AI systems  
-- ✅ Strong backend + database design  
-- ✅ Cloud deployment  
-- ✅ Internship & startup readiness  
+- ✅ Build production-ready AI systems  
+- ✅ Master backend & database design  
+- ✅ Deploy scalable cloud applications  
+- ✅ Prepare for AI/ML & Full-Stack internships  
 
 ---
 
