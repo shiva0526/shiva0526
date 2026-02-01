@@ -13,7 +13,31 @@ I design and build <b>AI-powered systems</b>, <b>computer vision models</b>,
 and <b>scalable full-stack applications</b> focused on real-world impact.
 </p>
 
-<hr style="width:60%;"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shivao526&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivao526&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivao526&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivao526&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
@@ -46,12 +70,12 @@ and <b>scalable full-stack applications</b> focused on real-world impact.
 <li>📋 Player & batch management</li>
 <li>📅 Daily attendance tracking</li>
 <li>📊 Report generation for students</li>
-<li>📲 Planned WhatsApp report automation using official APIs</li>
-<li>⚡ Scalable backend architecture for real-world usage</li>
+<li>📲 Planned WhatsApp report automation</li>
+<li>⚡ Scalable backend architecture</li>
 </ul>
 
 <b>Tech Stack:</b>  
-`FastAPI · TypeScript · SQL · Cloud Hosting · WhatsApp API (planned)`
+`FastAPI · TypeScript · SQL · Cloud Hosting`
 
 ---
 
@@ -59,17 +83,15 @@ and <b>scalable full-stack applications</b> focused on real-world impact.
 <b>Full-stack AI system for automated pneumonia diagnosis from chest X-rays</b>
 
 <ul>
-<li>🧠 CNN built using <b>TensorFlow / Keras</b></li>
-<li>📊 Classifies X-rays into Normal, Bacterial & Viral categories</li>
-<li>🔥 <b>Grad-CAM</b> visual explanations using OpenCV</li>
-<li>⚡ High-performance REST API using FastAPI</li>
-<li>🗄️ Patient scan history stored in PostgreSQL</li>
-<li>🌐 Responsive frontend using React + TypeScript</li>
-<li>🔐 Secure authentication & storage with Supabase</li>
+<li>🧠 CNN using TensorFlow / Keras</li>
+<li>🔥 Grad-CAM visual explanations</li>
+<li>⚡ FastAPI REST API</li>
+<li>🗄️ PostgreSQL for patient history</li>
+<li>🌐 React + TypeScript frontend</li>
 </ul>
 
 <b>Tech Stack:</b>  
-`Python · FastAPI · TensorFlow · OpenCV · React · TypeScript · PostgreSQL · Supabase`
+`Python · FastAPI · TensorFlow · OpenCV · React · TypeScript · PostgreSQL`
 
 ---
 
@@ -77,42 +99,25 @@ and <b>scalable full-stack applications</b> focused on real-world impact.
 <b>AI-powered study planner and personal tutor</b>
 
 <ul>
-<li>📄 Ingests notes, PDFs & question papers</li>
-<li>🔍 OCR-based text extraction</li>
-<li>🧠 RAG-powered context-aware responses</li>
-<li>📅 Personalized study plans till exam date</li>
-<li>📝 Adaptive quizzes & revision flashcards</li>
-<li>🎥 Automatic YouTube topic recommendations</li>
+<li>🧠 RAG-based AI responses</li>
+<li>📄 OCR & PDF ingestion</li>
+<li>📅 Personalized study plans</li>
+<li>📝 Adaptive quizzes</li>
 </ul>
-
-<b>Frontend:</b>  
-`React · Vite · Tailwind · Axios`
-
-<b>Backend:</b>  
-`FastAPI · SQLModel · SQLite/PostgreSQL · PyMuPDF · pytesseract`
-
----
-
-## 📦 Repository Highlights
-
-- 🧠 AI & Deep Learning Projects  
-- 👁️ Computer Vision (OpenCV & CNNs)  
-- ⚡ FastAPI Backends  
-- 🌐 React + TypeScript Applications  
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Build production-ready AI systems  
-- ✅ Master backend & database design  
-- ✅ Deploy scalable cloud applications  
-- ✅ Prepare for AI/ML & Full-Stack internships  
+- 🚀 Build production-grade AI systems  
+- ⚙️ Master backend & databases  
+- ☁️ Deploy cloud-ready applications  
+- 💼 Land AI/Full-Stack internships  
 
 ---
 
 <div align="center">
 
-<b>⭐ If you like my work, consider starring a repository!</b>
+<b>⭐ If you like my work, consider starring a repo!</b>
 
 </div>
