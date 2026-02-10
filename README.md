@@ -102,17 +102,4 @@ and <b>scalable full-stack applications</b> focused on real-world impact.
 
 ---
 
-## 🎯 2026 Goals
 
-- ✅ Build production-ready AI systems  
-- ✅ Master backend & database design  
-- ✅ Deploy scalable cloud applications  
-- ✅ Prepare for AI/ML & Full-Stack internships  
-
----
-
-<div align="center">
-
-<b>⭐ If you like my work, consider starring a repository!</b>
-
-</div>
